@@ -1,1 +1,0 @@
-{"inputs": "What is the purpose of life?", "parameters": {"do_sample": true, "temperature": 0.7,"min_length": 100,"max_length": 150}}
